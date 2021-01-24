@@ -75,7 +75,7 @@ How to create and host a minecraft server from scratch.
 4. Execute `start-server.bat` to setup.
     - When the console says `[Server thread/INFO]: Done! For help, type "help"` type `stop` to close.
 
-        _The program maybe close itself automatically._
+        _The program may close itself automatically._
 
 5. After setup, open `eula.txt` and agree to EULA:
     - `eula=true`
