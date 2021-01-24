@@ -8,6 +8,8 @@ How to create and host a minecraft server from scratch.
 
 - [Create server](#create-server)
 
+- [Open server](#open-server)
+
 - [FAQ](#faq)
 ---
 ### Dependences
@@ -71,6 +73,8 @@ How to create and host a minecraft server from scratch.
 3. Execute `start-server.bat` to setup.
     - When the console says `[Server thread/INFO]: Done! For help, type "help"` type `stop` to close.
 
+        _The program maybe close itself automatically._
+
 4. After setup, open `eula.txt` and agree to EULA:
     - `eula=true`
 
@@ -105,7 +109,12 @@ How to create and host a minecraft server from scratch.
         `motd=` default=A Minecraft Server / ([motd generator](https://minecraft.tools/en/motd.php))
 
 7. Well, we're done! :smile: ~~I love adding a new step just to tell you we're done~~
+---
+### Open server
+1. Just execute `start-server.bat`.
 
+2. Guess what? We are done! :smile:
+---
 ### FAQ
 - How to change server ip?
 
