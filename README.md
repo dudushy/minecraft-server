@@ -47,7 +47,7 @@ How to create and host a minecraft server from scratch.
 ### Create server
 1. Create a folder for your server.
 
-2. Download [server.jar](https://www.minecraft.net/en-us/download/server/) to yout server folder.
+2. Download [server.jar](https://www.minecraft.net/en-us/download/server/) to your server folder.
 
 3. Inside the folder, create a text file named `start-server`.
     - Before pasting the command line below, choose how much RAM you want to use:
