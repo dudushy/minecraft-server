@@ -45,9 +45,11 @@ How to create and host a minecraft server from scratch.
 4. We're done here! :smile:
 ---
 ### Create server
-1. Create a folder for your server. 
+1. Create a folder for your server.
 
-2. Inside the folder, create a text file named `start-server`.
+2. Download [server.jar](https://www.minecraft.net/en-us/download/server/) to yout server folder.
+
+3. Inside the folder, create a text file named `start-server`.
     - Before pasting the command line below, choose how much RAM you want to use:
 
         `-Xmx` is how much memory it's allowed to use.
@@ -70,20 +72,20 @@ How to create and host a minecraft server from scratch.
 
     - save the file as `.bat`
 
-3. Execute `start-server.bat` to setup.
+4. Execute `start-server.bat` to setup.
     - When the console says `[Server thread/INFO]: Done! For help, type "help"` type `stop` to close.
 
         _The program maybe close itself automatically._
 
-4. After setup, open `eula.txt` and agree to EULA:
+5. After setup, open `eula.txt` and agree to EULA:
     - `eula=true`
 
-5. Execute `start-server.bat` to actually install the server.
+6. Execute `start-server.bat` to actually install the server.
     - When the console says `[Server thread/INFO]: Done! For help, type "help"` type `stop` to close.
 
         _Now you should have a lot of files and folders._
 
-6. Edit `server.properties`.
+7. Edit `server.properties`.
     - Usually, when change those:
 
         `gamemode=` survival/creative/adventure/spectator
@@ -108,7 +110,7 @@ How to create and host a minecraft server from scratch.
 
         `motd=` default=A Minecraft Server / ([motd generator](https://minecraft.tools/en/motd.php))
 
-7. Well, we're done! :smile: ~~I love adding a new step just to tell you we're done~~
+8. Well, we're done! :smile: ~~I love adding a new step just to tell you we're done~~
 ---
 ### Open server
 1. Just execute `start-server.bat`.
