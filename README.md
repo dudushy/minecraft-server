@@ -4,9 +4,9 @@ How to create and host a minecraft server from scratch.
 ## Topics
 - [Dependences](#depedences)
 
-- [Create network](#network)
+- [Create network](#create-network)
 
-- [Create server](#server)
+- [Create server](#create-server)
 
 - [FAQ](#faq)
 ---
