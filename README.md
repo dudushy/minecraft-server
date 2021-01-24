@@ -122,7 +122,7 @@ How to create and host a minecraft server from scratch.
 
 - How to add/change server world?
 
-    _Open `server.properties` and change `level-name=` to whatever you want, it will create a folder with the name of level. Yes, you can have multiple levels in the same server folder, to rotate the maps you just need to change `leve-name=` and the folder name._
+    _Open `server.properties` and change `level-name=` to whatever you want, it will create a folder with the name of level. Yes, you can have multiple levels in the same server folder, to rotate the maps you just need to change `leve-name=` to the folder name._
 
 - What are the commands to use in console?
 
