@@ -22,7 +22,7 @@ How to create and host a minecraft server from scratch.
 
 2. Create a network.
     
-    _Maybe you need to sign in/sign up._
+    _You may need to sign in/sign up._
     - Click on `Network`.
 
         ![network](https://i.imgur.com/I69ESzh.png)
@@ -104,7 +104,7 @@ How to create and host a minecraft server from scratch.
 
         `level-name=` default=world
 
-        `online-mode=` true/false
+        `online-mode=` true/false (`false` allows pirate)
 
         `level-seed=` leave empty for random seed
 
