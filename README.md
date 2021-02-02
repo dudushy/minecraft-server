@@ -104,7 +104,7 @@ How to create and host a minecraft server from scratch.
 
         `level-name=` default=world
 
-        `online-mode=` true/false (`false` allows pirate)
+        `online-mode=` true/false (`false` allows cracked)
 
         `level-seed=` leave empty for random seed
 
