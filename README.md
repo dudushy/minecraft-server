@@ -1,5 +1,5 @@
 # cracked-minecraft-server
-How to create and host a cracked minecraft server from scratch.
+How to create and host a cracked minecraft server with skins from scratch.
 
 ## Topics
 - [Dependences](#depedences)
