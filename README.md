@@ -1,5 +1,5 @@
-# minecraft-server
-How to create and host a minecraft server from scratch.
+# cracked-minecraft-server
+How to create and host a cracked minecraft server from scratch.
 
 ## Topics
 - [Dependences](#depedences)
@@ -13,9 +13,11 @@ How to create and host a minecraft server from scratch.
 - [FAQ](#faq)
 ---
 ### Dependences
-- [server.jar](https://www.minecraft.net/en-us/download/server/)
+- [spigot.jar](https://getbukkit.org/download/spigot)
 
 - [LogMeIn Hamachi](https://www.vpn.net/)
+
+- [SkinsRestorer](https://www.spigotmc.org/resources/skinsrestorer.2124/)
 ---
 ### Create network
 1. Open `LogMeIn Hamachi`.
@@ -47,7 +49,7 @@ How to create and host a minecraft server from scratch.
 ### Create server
 1. Create a folder for your server.
 
-2. Download [server.jar](https://www.minecraft.net/en-us/download/server/) to your server folder.
+2. Download [spigot.jar](https://getbukkit.org/download/spigot) to your server folder.
 
 3. Inside the folder, create a text file named `start-server`.
     - Before pasting the command line below, choose how much RAM you want to use:
@@ -68,7 +70,7 @@ How to create and host a minecraft server from scratch.
         9gb /   -Xmx9216M -Xms9216M and so on... just multiply 1024 for how much you want
         ```
 
-    - Paste `java -Xmx2048M -Xms1024M -jar server.jar nogui` (change RAM for your preference)
+    - Paste `java -Xmx2048M -Xms1024M -jar spigot.jar nogui` (change RAM for your preference)
 
     - save the file as `.bat`
 
@@ -104,13 +106,15 @@ How to create and host a minecraft server from scratch.
 
         `level-name=` default=world
 
-        `online-mode=` true/false (`false` allows cracked)
+        `online-mode=` *true*
 
         `level-seed=` leave empty for random seed
 
         `motd=` default=A Minecraft Server / ([motd generator](https://minecraft.tools/en/motd.php))
 
-8. Well, we're done! :smile: ~~I love adding a new step just to tell you we're done~~
+8. Download [SkinsRestorer](https://www.spigotmc.org/resources/skinsrestorer.2124/) and save it to `plugins` folder
+
+9. Well, we're done! :smile: ~~I love adding a new step just to tell you we're done~~
 ---
 ### Open server
 1. Just execute `start-server.bat`.
