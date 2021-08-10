@@ -86,7 +86,7 @@ How to create and host a minecraft server from scratch.
         _Now you should have a lot of files and folders._
 
 7. Edit `server.properties`.
-    - Usually, when change those:
+    - Usually, we change those:
 
         `gamemode=` survival/creative/adventure/spectator
 
