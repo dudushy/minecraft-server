@@ -70,7 +70,7 @@ How to create and host a minecraft server from scratch.
 
     - Paste `java -Xmx2048M -Xms1024M -jar server.jar nogui` (change RAM for your preference)
 
-    - save the file as `.bat`
+    - Save the file as `.bat`
 
 4. Execute `start-server.bat` to setup.
     - When the console says `[Server thread/INFO]: Done! For help, type "help"` type `stop` to close.
