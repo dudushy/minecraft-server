@@ -23,7 +23,6 @@ How to create and host a minecraft server from scratch.
 
 - [Radmin VPN](https://www.radmin-vpn.com/)
 
-[GO BACK TO TOP](#minecraft-server)
 </details>
 
 ---
@@ -56,7 +55,6 @@ How to create and host a minecraft server from scratch.
 
 4. We're done here! :smile:
 
-[GO BACK TO TOP](#minecraft-server)
 </details>
 
 ---
@@ -130,7 +128,6 @@ How to create and host a minecraft server from scratch.
 
 8. Well, we're done! :smile: ~~I love adding a new step just to tell you we're done~~
 
-[GO BACK TO TOP](#minecraft-server)
 </details>
 
 ---
@@ -141,7 +138,6 @@ How to create and host a minecraft server from scratch.
 
 2. Guess what? We are done! :smile:
 
-[GO BACK TO TOP](#minecraft-server)
 </details>
 
 ---
@@ -160,5 +156,6 @@ How to create and host a minecraft server from scratch.
 
     _Well, there are a LOT of commands you can use, I recommend [this site](https://minecraft.gamepedia.com/Commands)._
 
-[GO BACK TO TOP](#minecraft-server)
 </details>
+
+[GO BACK TO TOP](#minecraft-server)
