@@ -1,7 +1,9 @@
 # minecraft-server
 How to create and host a minecraft server from scratch.
 
-## Topics
+<details>
+<summary>Topics</summary>
+
 - [Dependences](#depedences)
 
 - [Create network](#create-network)
@@ -11,13 +13,23 @@ How to create and host a minecraft server from scratch.
 - [Open server](#open-server)
 
 - [FAQ](#faq)
+</details>
+
 ---
-### Dependences
+<details>
+<summary><a name="dependences">Dependences</a></summary>
+
 - [server.jar](https://www.minecraft.net/en-us/download/server/)
 
 - [Radmin VPN](https://www.radmin-vpn.com/)
+
+[GO BACK TO TOP](#minecraft-server)
+</details>
+
 ---
-### Create network
+<details>
+<summary><a name="create-network">Create network</a></summary>
+
 1. Open `Radmin VPN`.
 
 2. Create a network.
@@ -43,8 +55,14 @@ How to create and host a minecraft server from scratch.
         ![copy_ipv4](https://i.imgur.com/C9pI7FZ.png)
 
 4. We're done here! :smile:
+
+[GO BACK TO TOP](#minecraft-server)
+</details>
+
 ---
-### Create server
+<details>
+<summary><a name="create-server">Create server</a></summary>
+
 1. Create a folder for your server.
 
 2. Download [server.jar](https://www.minecraft.net/en-us/download/server/) to your server folder.
@@ -111,13 +129,25 @@ How to create and host a minecraft server from scratch.
         `motd=` default=A Minecraft Server / ([motd generator](https://minecraft.tools/en/motd.php))
 
 8. Well, we're done! :smile: ~~I love adding a new step just to tell you we're done~~
+
+[GO BACK TO TOP](#minecraft-server)
+</details>
+
 ---
-### Open server
+<details>
+<summary><a name="open-server">Open server</a></summary>
+
 1. Just execute `start-server.bat`.
 
 2. Guess what? We are done! :smile:
+
+[GO BACK TO TOP](#minecraft-server)
+</details>
+
 ---
-### FAQ
+<details>
+<summary><a name="faq">FAQ</a></summary>
+
 - How to change server ip?
 
     _Open `server.properties` and change `server-ip=` to whatever you want._
@@ -129,3 +159,6 @@ How to create and host a minecraft server from scratch.
 - What are the commands to use in console?
 
     _Well, there are a LOT of commands you can use, I recommend [this site](https://minecraft.gamepedia.com/Commands)._
+
+[GO BACK TO TOP](#minecraft-server)
+</details>
