@@ -19,9 +19,9 @@ How to create and host a minecraft server from scratch.
 <details open>
 <summary><a name="dependences" style="pointer-events: none;"></a>Dependences</summary>
 
-- [server.jar](https://www.minecraft.net/en-us/download/server/){:target="_blank"}
+- [server.jar](https://www.minecraft.net/en-us/download/server/)
 
-- [Radmin VPN](https://www.radmin-vpn.com/){:target="_blank"}
+- [Radmin VPN](https://www.radmin-vpn.com/)
 
 </details>
 
