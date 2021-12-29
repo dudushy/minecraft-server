@@ -17,7 +17,7 @@ How to create and host a minecraft server from scratch.
 
 ---
 <details open>
-<summary><a name="dependences">Dependences</a></summary>
+<summary><a name="dependences" style="pointer-events: none;">Dependences</a></summary>
 
 - [server.jar](https://www.minecraft.net/en-us/download/server/)
 
@@ -27,7 +27,7 @@ How to create and host a minecraft server from scratch.
 
 ---
 <details open>
-<summary><a name="create-network">Create network</a></summary>
+<summary><a name="create-network" style="pointer-events: none;">Create network</a></summary>
 
 1. Open `Radmin VPN`.
 
@@ -59,7 +59,7 @@ How to create and host a minecraft server from scratch.
 
 ---
 <details open>
-<summary><a name="create-server">Create server</a></summary>
+<summary><a name="create-server" style="pointer-events: none;">Create server</a></summary>
 
 1. Create a folder for your server.
 
@@ -132,7 +132,7 @@ How to create and host a minecraft server from scratch.
 
 ---
 <details open>
-<summary><a name="open-server">Open server</a></summary>
+<summary><a name="open-server" style="pointer-events: none;">Open server</a></summary>
 
 1. Just execute `start-server.bat`.
 
@@ -142,7 +142,7 @@ How to create and host a minecraft server from scratch.
 
 ---
 <details open>
-<summary><a name="faq">FAQ</a></summary>
+<summary><a name="faq" style="pointer-events: none;">FAQ</a></summary>
 
 - How to change server ip?
 
