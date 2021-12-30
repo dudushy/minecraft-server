@@ -159,4 +159,4 @@ How to create and host a minecraft server from scratch.
 </details>
 
 ---
-[GO BACK TO TOP](#minecraft-server)
+> [GO BACK TO TOP](#minecraft-server)
