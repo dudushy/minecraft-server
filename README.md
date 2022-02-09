@@ -47,7 +47,7 @@ How to create and host a minecraft server from scratch.
         ![network_name_and_password](https://i.imgur.com/GMRPjAV.png)
 
 3. Copy IPv4. :warning:
-    - Right click on your name and copy IPv4 address.
+    - Right click on your name and copy IP address.
 
         _Save your IPv4, you will use on the server!_
 
@@ -116,7 +116,7 @@ How to create and host a minecraft server from scratch.
 
         `max-players=` default=20
 
-        `server-ip=` YOUR_HAMACHI_IPV4 :warning:
+        `server-ip=` YOUR_IP_ADDRESS :warning:
 
         `level-name=` default=world
 
