@@ -141,7 +141,7 @@ How to create and host a minecraft server from scratch.
 </details>
 
 ---
-<details open>
+<details closed>
 <summary><a name="faq" style="pointer-events: none;"></a>FAQ</summary>
 
 - How to change server ip?
